@@ -34,8 +34,4 @@ To play Dama:
 
 ## Credits
 
-This project is maintained by [Your Name].
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
+This project is maintained by Hadi Al Khansa.
